@@ -1,7 +1,7 @@
 # Riptide-Remastered
-Riptide Remastered updated for 2019 - Indigo Paste (CSGO Cheat)
+Riptide Remastered updated for 2020 - Indigo Paste (CSGO Cheat)
 
-Updated 30.12.2018 - Updated by Baseult
+Updated 15.05.2020 - Updated by 5R33CH4
 
 - Fixed Ragebot? Sometimes works, sometimes doesn't work wtf x)
 - Updated Grenade Helper
